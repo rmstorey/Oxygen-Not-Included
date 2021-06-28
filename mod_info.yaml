@@ -1,0 +1,6 @@
+supportedContent: ALL
+minimumSupportedBuild: 469287
+APIVersion: 2
+version: 1.0.0.1
+title: Extended Bridges - temporary fix
+staticID: ExtendedBridgesTempFix
